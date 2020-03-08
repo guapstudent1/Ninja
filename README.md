@@ -1,2 +1,2 @@
-# Ninja
-How to build without Visual Studio using only Dev
+# Нинзя
+Или как жители Катами собирают проги из сырцов
