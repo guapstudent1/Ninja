@@ -1,0 +1,1 @@
+cl /W4 /F268435456 /EHsc /O2 /DONLINE_JUDGE /Fe%1 /Fotmp/%1 main.cpp
